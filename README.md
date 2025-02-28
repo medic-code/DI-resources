@@ -70,23 +70,24 @@ Let’s use these resources to build, innovate, and support each other in transf
 2. **[Kaggle](https://www.kaggle.com/)**
    - Open datasets for AI exploration  
 
-3. **[DeepLearning.ai Courses](https://www.deeplearning.ai/courses/)**
-   - From basics to advanced AI (incl. RAG)  
-
-4. **[Fast.ai Courses](https://course.fast.ai/)**
-   - Hands-on ML with a focus on doing 
-
 5. **[Papers with code](https://paperswithcode.com/)**
    - Access the latest ML papers that provide code and datasets 
-   
+
+---
 
 ## 🎓 AI/ML Courses
 
-1. **[UCL Health Informatics MSc](https://www.ucl.ac.uk/)**
+1. **[DeepLearning.ai Courses](https://www.deeplearning.ai/courses/)**
+   - From basics to advanced AI (incl. RAG)  
+
+2. **[Fast.ai Courses](https://course.fast.ai/)**
+   - Hands-on ML with a focus on doing 
+
+3. **[UCL Health Informatics MSc](https://www.ucl.ac.uk/)**
    - Healthcare data science  
 
-2. **[University of Strathclyde MSc in Digital Health](https://www.dhi-scotland.com/masters-scholarships)**
+4. **[University of Strathclyde MSc in Digital Health](https://www.dhi-scotland.com/masters-scholarships)**
    - Free MSc for Scotland residents  
 
-3. **[XAIM.eu Masters](https://xaim.eu/)**
-   - Explainable AI in healthcare  
+5. **[XAIM.eu Masters](https://xaim.eu/)**
+   - Explainable AI in healthcare
